@@ -1,5 +1,5 @@
 # obsidian-plugins-table
-An [html file](site/index.html) containing a table for querying and sorting information about published obsidian plugins
+An [html file](docs/index.html) containing a table for querying and sorting information about published obsidian plugins
 
 ![Screenshot](screenshot.png)
 
